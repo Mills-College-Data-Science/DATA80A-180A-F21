@@ -1,1 +1,1 @@
-DATA 80A/180A Assignment 6 -- Part II
+DATA 80A/180A Homework 6 -- Part II
